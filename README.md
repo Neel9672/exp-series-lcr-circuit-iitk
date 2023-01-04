@@ -3,8 +3,8 @@
 
 <b>Discipline | <b>INFORMATION TECHNOLOGY
 :--|:--|
-<b> Lab | <b> To study the Resonance Condition of series LCR circuit
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Physical Science
+<b> Experiment|     <b>  To study the Resonance Condition of series LCR circuit
 
 ### About the Experiment 
 
