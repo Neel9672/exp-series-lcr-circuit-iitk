@@ -1,1 +1,1 @@
-### Aim of the experiment
+To study Resonace condition of series LCR circuit
